@@ -1,0 +1,1 @@
+# usvdc1-thumbnailserver-api.pnimedia.com
